@@ -42,6 +42,10 @@ Gesamt: **1190€**
 ) Bus Großraum Palma
 ![](mallorca-emt-bus.jpg)
 
+### Fahrrad
+* [https://www.mallorca.com/de/aktivitaeten/mallorca-fahrradverleih](https://www.mallorca.com/de/aktivitaeten/mallorca-fahrradverleih)
+* [https://radverleih-mallorca.com/anbieter/](https://radverleih-mallorca.com/anbieter/)
+
 <br>
 
 
