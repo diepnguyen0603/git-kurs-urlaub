@@ -33,6 +33,18 @@ Gesamt: **1190€**
 
 ## Verkehrsmittel
 
+#### Öffentliche Verkehrsmittel
+
+ * [TIB:](https://www.mallorca.es/de/bus) Bus, Bahn, Metro über ganze Insel
+![](mallorca-verkehrsmittel.jpg)
+
+ * [EMT:](https://www.mallorcazeitung.es/mobilitat/2016/11/03/palmas-buslinien-fahrplaene-und-tarife-54166745.html
+) Bus Großraum Palma
+![](mallorca-emt-bus.jpg)
+
+<br>
+
+
 ## Reiseplan
 
 * **Palma**
