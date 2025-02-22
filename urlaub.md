@@ -18,6 +18,8 @@
 * **Hinflug**: STR -> PMI, 05. Sep. 13:37
 * **Rückflug**: PMI -> STR, 19. Sep. 13:37
 
+Flüge kompensieren: [https://www.atmosfair.de/de/kompensieren/flug/](https://www.atmosfair.de/de/kompensieren/flug/)
+
 ## Unterkunft
 
 * **Airbnb Palma**
