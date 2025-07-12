@@ -1,0 +1,6 @@
+boarding_passes
+*.log
+build
+*.html
+# except foo.html
+!foo.html
