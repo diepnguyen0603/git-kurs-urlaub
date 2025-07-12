@@ -3,8 +3,18 @@
 
 <small>[unsplash](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.traum-ferienwohnungen.de/urlaubsmagazin/uebernachten-mallorca-regionen/&ved=2ahUKEwjntcLg2beOAxVpUMMIHYFIAGAQh-wKegQIIxAD&usg=AOvVaw2jjF6sGq3oq-Q4Y5W8nviY)</small>
 
-## To-Do
-## Flüge
+* 2 Wochen - 2 Orte
+* [Reisehinweise](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.auswaertiges-amt.de/de/reiseundsicherheit/spaniensicherheit-210534&ved=2ahUKEwicu5TZ27eOAxUEcvEDHZcVLgAQFnoECCMQAQ&usg=AOvVaw2758TqVWIxD00wsdxXLXTo)
+* Steckdosen Check: Typ C und F: 230V/50Hz -> kein Adapter
+
+
+
+ ## To-Do
+ ## Flüge
+* **Hinflug**: STR -> PMI, 05. Sep. 13:37
+* **Rückflug**: PMI -> STR, 19. Sep. 13:37
+
+
 ## Unterkunft
 ## Verkehrsmittel
 ## Reiseplan
