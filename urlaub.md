@@ -10,10 +10,9 @@
 
 
  ## To-Do
-  * Reisekrankenversicherung
-  * Koffer
-  * Spanisch lernen
-  * Vorfreude
+  * Koffer kaufen
+  * Spanisch lernen, wirklich!
+  * Vorfreude!
 
 
  ## Flüge
