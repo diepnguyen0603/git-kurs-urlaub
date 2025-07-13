@@ -32,6 +32,27 @@ Gesamt: **1190€**
 
 
 ## Verkehrsmittel
+**Öffentliche Verkehrsmittel**
+   * [TIB:](https://www.tib.org/de/xarxa-de-transports/mapa-linies) Bus, Bahn, Metro über ganze Insel
+   ![](oeffentlich_verkehr_ganze_insel.jpg)
+   <br>
+   <br>
+   * [EMT:](https://www.emtpalma.cat/de/linien/) Bus Großraum Palma
+   <br>
+   ![](bus_palma.jpg)
+   <br>
+   <br>
+
+
+**Fahrrad**
+   * **https://mallorca.com/de/aktivitaeten/sport/radfahren/mallorca-fahrradverleih**
+   * **https://radverleih-mallorca.com/**
+
+**Auto**
+   * **https://www.mallorca.com/de/urlaub/mobil-auf-mallorca**
+
+<br>
+<br>
 
 ## Reiseplan
 * **Palma**:
