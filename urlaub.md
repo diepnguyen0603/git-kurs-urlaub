@@ -69,3 +69,8 @@ Gesamt: **1190€**
     * Cala Domingos
     * Castell de Capdepera
 
+## Allgemein
+* **Notizen**:
+    Die Notrufnummer auf Mallorca ist die 112. Diese Nummer ist für alle Notfälle wie Polizei, Feuerwehr und Rettungsdienst zuständig.
+    * Trinkwasser: **https://www.mallorcaengel.com/allgemeine-infos/trinkwasserqualitaet/**
+
